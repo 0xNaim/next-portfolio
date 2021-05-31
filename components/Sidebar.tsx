@@ -30,7 +30,7 @@ const Sidebar = () => {
       />
 
       <h3 className="my-4 text-3xl font-medium tracking-wider font-kaushan">
-        <span className="text-green-500">Naim</span> Islam
+        <span className="text-green">Naim</span> Islam
       </h3>
       <p className="px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200">
         Web Developer
