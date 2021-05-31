@@ -45,13 +45,13 @@ const Sidebar = () => {
 
       {/* Social icons */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full">
-        <a href="" className="cursor-pointer">
+        <a href="" className="cursor-pointer" aria-label="YouTube">
           <AiFillYoutube className="w-8 h-8" />
         </a>
-        <a href="" className="cursor-pointer">
+        <a href="" className="cursor-pointer" aria-label="Github">
           <AiFillGithub className="w-8 h-8" />
         </a>
-        <a href="" className="cursor-pointer">
+        <a href="" className="cursor-pointer" aria-label="LinkedIn">
           <AiFillLinkedin className="w-8 h-8" />
         </a>
       </div>
